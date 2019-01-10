@@ -1,0 +1,16 @@
+"teste" = {
+	"Container" = {
+		"Obs" = "Coisas"
+		"Int" = 1
+		"Container" = {
+			"Um" = "Dentro"
+		}
+		"Vazio" = {}
+	}
+	"Obs" = "Arvore"
+	"teste1" = {
+		"teste2"= "algo"
+		"unt" = 102
+	}
+	"Obs" = { "obs" = "posso"  "posso" = "colocar" }
+}
