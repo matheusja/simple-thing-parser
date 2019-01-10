@@ -1,0 +1,14 @@
+Ele lê expressões do tipo:
+E -> <string> = X
+X -> <numero> | <string> | { E* }
+<string> são como "teste1", "teste2", desse tipo(incluí aspas)
+<numero> são numeros inteiros positivos(ou 0)
+E* aqui singifica uma sequência de 0, 1 ou mais E's(que são expressões que o programa aceita)
+'{', '}' e '=' são exatamente o que está aqui(exceto as aspas)
+Entre uma token e outro, pode haver:
+\n
+\r
+\t
+espaços
+#, que indica um comentário até o final da linha
+o arquivo thing.txt contém um exemplo
