@@ -1,5 +1,6 @@
 # simple-thing-parser
 Um parser para expressões de um tipo especifico.
+
 A expressão que é lida é da forma "E" sendo:
 
 E -> <string> = X
